@@ -10,7 +10,6 @@ Já tive experiência com SEO estrutural além de algumas conquistas de resultad
 + CSS
 + JS
 + PHP
-+ GIT
 + VUE 
 + REACT
 
