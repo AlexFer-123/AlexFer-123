@@ -11,7 +11,7 @@ Já tive experiência com SEO estrutural além de algumas conquistas de resultad
 + JS
 + PHP
 + VUE 
-+ REACT
+
 
 
 
