@@ -4,8 +4,9 @@
 + HTML
 + CSS
 + JS
-+ PHP
-+ VUE 
++ VUE
++ GIT
+
 
 
 
